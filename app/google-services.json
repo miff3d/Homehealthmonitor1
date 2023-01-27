@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831500531729",
+    "project_id": "homemonitor-e7712",
+    "storage_bucket": "homemonitor-e7712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831500531729:android:318dbf24919a969f4159b0",
+        "android_client_info": {
+          "package_name": "com.example.homehealthmonitor1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831500531729-gd8vmgi0f9ubcfb0eepo7jhkafgjv0ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5miJl7uvKirngptrBaLK_vdrw19QwbQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831500531729-gd8vmgi0f9ubcfb0eepo7jhkafgjv0ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
